@@ -1,0 +1,30 @@
+{
+  "name": "mad-todo-backend",
+  "version": "1.0.0",
+  "description": "A backend service for a todo mobile app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laetitia-ghb/Java.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Asante Adarkwa Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laetitia-ghb/Java.git/issues"
+  },
+  "homepage": "https://github.com/Laetitia-ghb/Java.git#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0",
+    "nodemon": "^2.0.15"
+  }
+}
