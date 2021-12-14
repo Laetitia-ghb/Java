@@ -1,6 +1,9 @@
 {
   "name": "mad-todo-backend",
   "version": "1.0.0",
+  "engines":{
+    "node": "16.9.1"
+  },
   "description": "A backend service for a todo mobile app",
   "main": "index.js",
   "type": "module",
